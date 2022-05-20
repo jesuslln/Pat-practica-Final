@@ -1,0 +1,14 @@
+com\pat\aviones\model\Vuelo$VueloBuilder.class
+com\pat\aviones\service\implementation\UsuarioServiceImplementation.class
+com\pat\aviones\repository\VueloRepository.class
+com\pat\aviones\model\Vuelo.class
+com\pat\aviones\service\implementation\VueloServiceImplementation.class
+com\pat\aviones\model\Usuario.class
+com\pat\aviones\DemoApplication.class
+com\pat\aviones\service\UsuarioService.class
+com\pat\aviones\controller\VueloController.class
+com\pat\aviones\model\Usuario$UsuarioBuilder.class
+com\pat\aviones\service\VueloService.class
+com\pat\aviones\model\Comentario$ComentarioBuilder.class
+com\pat\aviones\controller\UsuarioController.class
+com\pat\aviones\repository\UsuarioRepository.class
